@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Databricks local artifacts
+.idea/
+.vscode/
+.databricks/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
